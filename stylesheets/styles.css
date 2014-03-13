@@ -694,6 +694,10 @@ dt {
   font-weight: normal;
 }
 
+.preview {
+  overflow:hidden;
+}
+
 #header {
   z-index: 100;
   left: 0;
